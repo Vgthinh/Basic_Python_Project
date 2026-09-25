@@ -1,0 +1,5 @@
+# Some libraries needed
+- PyQt5
+
+# Others
+- Download font-family: DS-DIGI.TTF
