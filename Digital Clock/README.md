@@ -13,4 +13,13 @@ A simple digital clock application built with Python.
 - Python
 - PyQt5
 
+## Screenshot
 
+![Digital Clock](ScreenShots/DigitalClock.png)
+
+## How to Run
+
+Clone this repository:
+
+```bash
+git clone https://github.com/your-username/Digital%20Clock.git
